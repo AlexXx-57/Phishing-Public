@@ -1,7 +1,7 @@
 # PhishHack v2.0
 ### DM For Facebook and Instagram Bruteforce/Dictionary attack hacking script, Telegram: https://t.me/cybergeeky
 
-A Script to Phish and Get Victims Login Credentials.
+A Script to Phish and Get Victim's Login Credentials.
 ![PhishHack](https://github.com/cybergeeky/PhishHack/blob/main/PhishHack.png)
 
 <strong>PhishHack</strong> is a beginner's friendly, automated and ultimate phishing tool in python. The tool Includes popular websites like Facebook, Instagram, LinkedIn, Twitter, GitHub, Dropbox, and many others. Created with Flask and tunneled with ngrok. It also has custom templates in it.
