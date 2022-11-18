@@ -41,7 +41,7 @@ $ pip3 install -r requirements.txt
 
 ## Legal disclaimer:
 
-WhatsappHack Usage for exploiting targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable laws both local, state and federal. The Developer assume no liability and is not responsible for any misuse or damage caused by this script
+PhishHack Usage for exploiting targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable laws both local, state and federal. The Developer assume no liability and is not responsible for any misuse or damage caused by this script
 
 ##### Please ⭐ the repo to support my project
 ![star](https://cdn.discordapp.com/attachments/975036883958636557/975057102097743973/unknown.png)
