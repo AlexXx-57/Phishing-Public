@@ -4,7 +4,7 @@
 A Script to Phish and Get Victims Login Credentials.
 ![PhishHack](https://github.com/cybergeeky/PhishHack/blob/main/PhishHack.png)
 
-<p align="center"><strong>PhishHack</strong> is a beginner's friendly, automated and ultimate phishing tool in python. The tool Includes popular websites like Facebook, Instagram, LinkedIn, Twitter, GitHub, Dropbox, and many others. Created with Flask and tunneled with ngrok. It also has custom templates in it.</p>
+<strong>PhishHack</strong> is a beginner's friendly, automated and ultimate phishing tool in python. The tool Includes popular websites like Facebook, Instagram, LinkedIn, Twitter, GitHub, Dropbox, and many others. Created with Flask and tunneled with ngrok. It also has custom templates in it.
 
 ### Features
 #### Updated and User Friendly login pages.
