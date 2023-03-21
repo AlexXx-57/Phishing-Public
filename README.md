@@ -1,5 +1,5 @@
 # PhishHack v2.0
-### DM For Facebook and Instagram Bruteforce/Dictionary attack hacking script, Telegram: https://t.me/cybergeeky
+### DM For Facebook and Instagram Bruteforce/Dictionary attack hacking script, Telegram: https://t.me/alphageeky
 
 A Script to Phish and Get Victim's Login Credentials.
 ![PhishHack](https://github.com/cybergeeky/PhishHack/blob/main/PhishHack.png)
@@ -27,7 +27,7 @@ A Script to Phish and Get Victim's Login Credentials.
 ### Installation on Kali Linux:
 Run script:
 ```
-$ git clone https://github.com/cybergeeky/PhishHack.git
+$ git clone https://github.com/AlphaGeeky/PhishHack.git
 $ cd PhishHack/
 $ python3 PhishHack.py
 ```
@@ -37,7 +37,7 @@ $ python3 PhishHack.py
 ```
 $ pip3 install -r requirements.txt
 ```
-### If you have questions or need any help, Message me here: [@cybergeek](https://t.me/cybergeeky) 
+### If you have questions or need any help, Message me here: [@alphageek](https://t.me/alphageeky) 
 
 ## Legal disclaimer:
 
