@@ -169,7 +169,7 @@ try:
                     if not (ngrok_auth()):
                         token = input("Enter your auth-token: ")
                         if token:
-                            ngrok.set_auth_token(token)
+                            ngrok.set_auth_token(2NaK6a2t25QO2OL2t3sTJH3APzK_5Xn1BVRogerhkpscjxJ27)
                         else:
                             sys.exit("\nEnter your ngrok auth-token")   
                 elif tunnel == 2:
